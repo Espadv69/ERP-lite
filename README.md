@@ -11,7 +11,7 @@ _(Coming soon, after deployment to Netlify)_
 ## 🛠️ Tech Stack
 
 - **Frontend only:** React
-- **Styling:** CSS (or Tailwind, optional)
+- **Styling:** CSS
 - **State management:** React Context + useState
 - **Data storage:** localStorage (simulating database)
 
