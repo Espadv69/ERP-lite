@@ -1,7 +1,7 @@
 {
   "name": "erp-lite",
   "version": "1.0.0",
-  "description": "A lightweight and scalable ERP-style web application with basic user login and inventory management. Built with React, Node.js, Express, and MongoDB.",
+  "description": "A lightweight ERP-style web app with basic login and inventory management features. Built entirely in React and deployable on Netlify.",
   "main": "index.js",
   "private": true,
   "scripts": {
