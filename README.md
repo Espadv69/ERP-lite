@@ -28,6 +28,7 @@ _(Coming soon, after deployment to Netlify)_
 
 ## 🗂️ Folder Structure
 
+```code
 erp-lite-app/
 ├── public/
 ├── src/
@@ -38,11 +39,12 @@ erp-lite-app/
 │ └── main.jsx
 ├── README.md
 └── package.json
+```
 
 ## 🧪 Static Users (for login)
 
 | Username | Role     | Password |
-|----------|----------|----------|
+| -------- | -------- | -------- |
 | scm00    | tutor    | erp2025  |
 | scm01    | employee | erp2025  |
 | scm02    | employee | erp2025  |
